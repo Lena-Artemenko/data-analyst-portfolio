@@ -61,7 +61,7 @@
 
 - Telegram: [@lenaartemenko](https://t.me/lenaartemenko)
 - HH.ru: 
-- Email: lenaarteme@yandex.ru
+- Email: lena.arteme@yandex.ru
 
 ---
 
