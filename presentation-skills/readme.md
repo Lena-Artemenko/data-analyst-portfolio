@@ -1,6 +1,6 @@
 # Кейс: Настройка сквозной аналитики
 
-## 📎 Презентация
+## 📎 [Презентация](https://github.com/Lena-Artemenko/data-analyst-portfolio/blob/3df79ec698b86df6e5bd6baf5d136f1f80454e14/presentation-skills/presentation-analytics.pdf)
 
 
 ## Описание
