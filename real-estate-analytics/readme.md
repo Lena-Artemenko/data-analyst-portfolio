@@ -17,7 +17,7 @@
 
 🔷 [Дашборд Yandex Datalens](https://datalens.yandex/njlcj4fd22di9?tab=aW)
 
-🔷 [Аналитическая записка с комментариями]()
+🔷 [Аналитическая записка с комментариями](https://github.com/Lena-Artemenko/data-analyst-portfolio/blob/a790011523828e93fd829839705ae8c138c56e41/real-estate-analytics/comments.pdf)
 
 ---
 
