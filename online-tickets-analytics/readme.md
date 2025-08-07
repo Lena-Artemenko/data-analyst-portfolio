@@ -40,5 +40,5 @@
 - Проверка гипотез о различии между мобильными и десктоп-пользователями
 
 ### Используемые библиотеки:
-`pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
+`pandas`, `matplotlib`, `seaborn`, `scipy`
 
