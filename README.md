@@ -46,6 +46,8 @@
 
 🔹 [Анализ сервиса продажи онлайн-билетов (дашборд Yandex Datalens, анализ данных Python)](https://github.com/Lena-Artemenko/data-analyst-portfolio/tree/20a8f39012c779fd6b6c1fe2ebc6f99ca4746cdd/online-tickets-analytics)
 
+🔹 [Анализ рынка для агентства недвижимости (SQL, дашборд Yandex Datalens)](https://github.com/Lena-Artemenko/data-analyst-portfolio/tree/6fbdbf4330fa969b413a69123ad36710a42ef527/real-estate-analytics)
+
 🔹 [Кейс по настройке веб-аналитики для автодилера (публикация в блоге)](https://www.calltouch.ru/blog/kak-dileru-avto-pravilno-vystroit-shemu-raboty-s-agentstvom/)
 
 🔹 [Кейс по увеличению лидов в сфере недвижимости (публикация в блоге)](https://callibri.ru/blog/kak-prodvigat-jk-v-samare)
