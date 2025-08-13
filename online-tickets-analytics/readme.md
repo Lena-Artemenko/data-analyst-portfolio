@@ -31,7 +31,7 @@
 ---
 
 ## Проект 2: Исследовательский анализ на Python
-### [ссылка на файл](https://github.com/Lena-Artemenko/data-analyst-portfolio/blob/85f72354a6b0c87d243a861927a7fb5adb2ca642/online-tickets-analytics/analyz-yandex-afisha.ipynb)
+### [ссылка на файл](https://github.com/Lena-Artemenko/data-analyst-portfolio/blob/db30e671341cf89cad312bacc914d2cce631d792/online-tickets-analytics/analyze-online-tickets-service.ipynb)
 
 ### Цель:
 Анализ сезонности и пользовательской активности с использованием Python и статистических методов.
