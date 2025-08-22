@@ -38,7 +38,7 @@
 ## Проект 2. Анализ конверсии после изменения интерфейса приложения
 
 **Название проекта:** `analyze_interface_change`  
-**Ссылка на ноутбук:** 
+**Ссылка на ноутбук:** [analyze_interface_change.ipynb](https://github.com/Lena-Artemenko/data-analyst-portfolio/blob/2862961054bda58a996bfa5f988d8a1b5264db22/AB-tests/analyze_interface_change.ipynb)
 
 ### Цель проекта
 Оценить влияние изменения интерфейса приложения на конверсию пользователей.  
